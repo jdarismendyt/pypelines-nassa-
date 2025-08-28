@@ -1,0 +1,5 @@
+api_key: ${API_KEY}
+dataset: MODIS_SP  # Nuevo dataset que funcionó
+country: COL       # Código de país (3 letras)
+days: 1            # Número de días hacia atrás
+end_date: 2025-01-25 # Fecha final del período

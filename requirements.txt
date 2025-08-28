@@ -1,0 +1,27 @@
+# Paquetes base
+requests==2.32.3
+pandas==2.2.2
+pyyaml==6.0.1
+geopandas==0.14.4
+python-dotenv==1.0.1
+
+# Visualización y mapas
+folium==0.16.0
+branca==0.7.1
+matplotlib==3.8.4
+descartes==1.1.0
+
+# Reportes PDF
+reportlab==4.1.0
+Pillow==10.3.0
+
+# Procesamiento geoespacial
+shapely==2.0.4
+fiona==1.9.6
+rtree==1.2.0
+pyproj==3.6.1
+
+# Utilidades
+numpy==1.26.4
+python-dateutil==2.9.0.post0
+pytz==2024.1
